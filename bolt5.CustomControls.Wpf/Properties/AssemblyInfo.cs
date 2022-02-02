@@ -8,9 +8,9 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("bolt5.CustomControls.Wpf")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("My custom controls for WPF")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("bolt5")]
 [assembly: AssemblyProduct("bolt5.CustomControls.Wpf")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
@@ -53,3 +53,4 @@ using System.Windows;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: Guid("B8ED6C43-1DA4-40FD-AB3F-B6A5A1F88C14")]

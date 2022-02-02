@@ -8,9 +8,9 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("bolt5.bolt5.CustomMonthlyCalendar")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Monthly Calendar for WPF")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("bolt5")]
 [assembly: AssemblyProduct("bolt5.bolt5.CustomMonthlyCalendar")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
@@ -53,3 +53,4 @@ using System.Windows;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: Guid("4D895747-3858-4706-A59B-1E9470579C11")]

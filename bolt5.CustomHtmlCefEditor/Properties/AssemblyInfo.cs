@@ -8,9 +8,9 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("bolt5.CustomHtmlCefEditor")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("HTML Editor (WYSIWYG) for WPF")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("bolt5")]
 [assembly: AssemblyProduct("bolt5.CustomHtmlCefEditor")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
@@ -53,3 +53,4 @@ using System.Windows;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: Guid("DEC85CDE-3C33-4CEE-AFA2-530D0ABD01B6")]

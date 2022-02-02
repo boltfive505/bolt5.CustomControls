@@ -72,5 +72,8 @@
     <Compile Include="SkipMappingIfMissingAttribute.cs" />
     <Compile Include="Core\_BaseMappingObject.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bolt5.CustomMappingObject.nuspec" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
